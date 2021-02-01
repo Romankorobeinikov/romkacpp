@@ -7,5 +7,8 @@ int main()
    std::cout << '.';
    std::cout << true;
    std::cout << std::endl;
+   std::string name;
+   std::getline(std::cin, name);
+   std::cout << name;
    return 0;
 }
