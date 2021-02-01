@@ -1,5 +1,6 @@
 #include <iostream>
 #include <math.h>
+
 int main()
 {
     double x;
